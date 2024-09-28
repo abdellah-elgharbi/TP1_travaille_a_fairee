@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tp1_travaille_a_faire</string>
+    <array name="villes">
+        <item>Marackech</item>
+        <item>agadir</item>
+        <item>El jadida</item>
+        <item>azemour</item>
+        <item>asafi</item>
+        <item>Rabat</item>
+    </array>
+</resources>
