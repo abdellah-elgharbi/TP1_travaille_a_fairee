@@ -79,7 +79,7 @@ Les contributions sont bienvenues. Si vous avez des idées d'amélioration ou de
 
 ## **Auteur**
 
-Développé par **[Votre Nom]** dans le cadre d'un projet d'application mobile pour l'inscription à des formations.
+Développé par **El gharbi abdellah** dans le cadre d'un projet d'application mobile pour l'inscription à des formations.
 
 ---
 
