@@ -90,4 +90,7 @@ Ce projet est sous licence **MIT**. Consultez le fichier `LICENSE` pour plus d'i
 ---
 
 Cette description fournit une documentation claire pour quiconque souhaitant utiliser et comprendre votre application d'inscription à une formation.
+
+
+
 [Screen_recording_20240928_174753.webm](https://github.com/user-attachments/assets/84bed9a0-1a3f-47c5-930e-074d16aa06c7)
